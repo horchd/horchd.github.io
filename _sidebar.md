@@ -1,0 +1,11 @@
+* [Home](/)
+* [Install](install.md)
+* [Quick start](quickstart.md)
+* [Configuration](config.md)
+* [D-Bus API](dbus-api.md)
+* Subscriber examples
+  * [Bash](examples/bash.md)
+  * [Python](examples/python.md)
+  * [Rust](examples/rust.md)
+* [Train a wakeword](training.md)
+* [FAQ](faq.md)
